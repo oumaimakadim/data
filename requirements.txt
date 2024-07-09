@@ -1,6 +1,9 @@
-streamlit
-pandas
-plotly
-passlib
-scikit-learn
-google-generative-ai
+streamlit==1.36.0
+pandas==1.3.2
+plotly==5.22.0
+passlib==1.7.4
+scikit-learn==1.5.1
+google-cloud==0.34.0
+google-cloud-automl==2.13.4
+google-cloud-language==2.13.4
+google-generativeai
